@@ -6,7 +6,7 @@ public class MedianOfTwoShortedArray {
 
 }
 
-class Solution { // 2ms Beats 50.11
+class Solution { // 1ms Beats 100%
 
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
 
