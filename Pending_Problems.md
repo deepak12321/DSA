@@ -6,7 +6,7 @@ Easily keep track of your pending and completed LeetCode problems with this clea
 
 ## 🧩 Pending Problems
 
-* [ ] [Scramble String (Hard)](https://leetcode.com/problems/scramble-string/description/)
+- [ ] [Scramble String (Hard)](https://leetcode.com/problems/scramble-string/description/)
 
 ---
 
@@ -24,9 +24,9 @@ This will automatically show the problem as **checked** and **struck through**.
 
 ## 🌱 Future Enhancements
 
-* [ ] Add Easy and Medium problems
-* [ ] Group problems by topic (Dynamic Programming, Strings, Graphs, etc.)
-* [ ] Display completion percentage automatically
+- [ ] Add Easy and Medium problems
+- [ ] Group problems by topic (Dynamic Programming, Strings, Graphs, etc.)
+- [ ] Display completion percentage automatically
 
 ---
 
